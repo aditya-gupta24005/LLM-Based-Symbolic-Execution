@@ -1,0 +1,7 @@
+{
+  "python": "/Users/adityagupta/Developer/LLM Based Symbolic Execution/grammars/tree-sitter-python/src",
+  "javascript": "/Users/adityagupta/Developer/LLM Based Symbolic Execution/grammars/tree-sitter-javascript/src",
+  "java": "/Users/adityagupta/Developer/LLM Based Symbolic Execution/grammars/tree-sitter-java/src",
+  "c": "/Users/adityagupta/Developer/LLM Based Symbolic Execution/grammars/tree-sitter-c/src",
+  "cpp": "/Users/adityagupta/Developer/LLM Based Symbolic Execution/grammars/tree-sitter-cpp/src"
+}
